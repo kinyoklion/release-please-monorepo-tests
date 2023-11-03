@@ -1,10 +1,10 @@
 {
   "name": "@kinyoklion/package-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is B",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "@kinyoklion/package-a": "1.0.0"
+    "@kinyoklion/package-a": "1.1.0"
   }
 }
