@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "package-a": {
+    },
+    "package-b": {
+      "extra-files": [
+        "demo-extra-files.md"
+      ]
+    }
+  },
+  "plugins": ["node-workspace"]
+}
