@@ -1,8 +1,7 @@
 {
   "name": "@kinyoklion/package-a",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This is A",
   "main": "index.js",
-  "scripts": {
-  }
+  "scripts": {}
 }
