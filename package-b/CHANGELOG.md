@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.1](https://github.com/kinyoklion/release-please-monorepo-tests/compare/package-b-v1.0.0...package-b-v1.0.1) (2023-11-03)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @kinyoklion/package-a bumped from 1.0.0 to 1.1.0
+
+## [1.0.1](https://github.com/kinyoklion/release-please-monorepo-tests/compare/package-b-v1.0.0...package-b-v1.0.1) (2023-11-03)
+
 ## 1.0.0 (2023-11-03)
 
 
